@@ -7,6 +7,7 @@ Each episode lives in its own numbered folder with its own README (what it simul
 | # | Short | What the code does |
 |---|---|---|
 | 009 | [One Car Fixed a Traffic Jam](009-phantom-traffic-jam/) | 22 cars on a ring road, one brake tap makes a phantom jam, one calm driver clears it |
+| 010 | [This Ant Will Build a Road Forever](010-langtons-ant/) | Langton's ant: two rules, chaos, then the highway at step 9,976; 10 random starts all find it |
 
 ## Running an episode
 
