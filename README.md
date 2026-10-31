@@ -10,6 +10,7 @@ Each episode lives in its own numbered folder with its own README (what it simul
 | 010 | [This Ant Will Build a Road Forever](010-langtons-ant/) | Langton's ant: two rules, chaos, then the highway at step 9,976; 10 random starts all find it |
 | 011 | [This Blob Designed Tokyo's Train Network](011-slime-tokyo/) | The 2010 slime-mold model on real Tokyo geography: 36 cities, the blob vs the minimum spanning tree |
 | 013 | [This Algorithm Accidentally Wrote the World's Drum Beats](013-euclidean-rhythms/) | Bjorklund's algorithm (Euclid's divide-and-remainder): k hits over n beats gives the tresillo, bossa nova, samba and more; `play.py` lets you hear any pair |
+| 014 | [This Number Should Never Come Back Down](014-collatz/) | Collatz (3n + 1): 27 climbs to 9,232 and takes 111 steps; 10 random quintillion-size starts all reach 1; remembering solved numbers cuts the work 61x |
 
 ## Running an episode
 
